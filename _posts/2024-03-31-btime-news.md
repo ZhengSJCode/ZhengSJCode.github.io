@@ -1,21 +1,33 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+title: 八角街道八角北里社区开展垃圾回收活动
+subtitle: 北京时间政务新媒体
 tags: [test]
+thumbnail-img: /assets/img/t0108879b5e391bed8a.jpg
 comments: true
 mathjax: true
-author: Bill Smith
+author:  罗奕颖
 ---
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+为引导社区居民养成垃圾分类良好习惯，推动垃圾分类工作深入开展。3月29日上午，在北京市垃圾分类实施近四周年之际，八角北里社区在街道城市管理办公室指导下，联合专业再生资源回收公司共同举办“践行环保理念，打造绿色社区”垃圾回收活动。此次活动吸引近百名社区居民积极参与。
 
 **Here is some bold text**
 
 ## Here is a secondary heading
+
+为引导社区居民养成垃圾分类良好习惯，推动垃圾分类工作深入开展。3月29日上午，在北京市垃圾分类实施近四周年之际，八角北里社区在街道城市管理办公室指导下，联合专业再生资源回收公司共同举办“践行环保理念，打造绿色社区”垃圾回收活动。此次活动吸引近百名社区居民积极参与。
+
+![Crepe](https://p2.ssl.cdn.btime.com/t01198417446afe7c0a.jpg)
+
+
+活动伊始，社区工作人员为每位参与活动的居民讲解了垃圾分类的重要性和必要性以及回收处理的流程，通过讲解让居民们对垃圾分类有了更为直观、深入的了解。随后发放了垃圾分类徽章，鼓励居民积极参与垃圾分类、共同维护社区环境。
+
+讲解结束后，大家纷纷走到室外指定的再生资源回收点。在专业人员的帮助下，居民们积极行动，将自己不需要的物品进行有偿分类回收，包括废旧纸张、塑料瓶、金属、玻璃及织物等。
+
+
+[北京时间-链接](https://item.btime.com/42cjaih3m8p9ufbeqf66adgk99p) 
+
 
 [This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
 
